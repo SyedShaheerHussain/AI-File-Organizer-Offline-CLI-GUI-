@@ -125,8 +125,10 @@ cargo run -- scan ./Downloads
 The heavy lifter. Moves files into categories.
 
 # Standard rule-based organization
+```
 cargo run -- organize C:\Users\User\Downloads
 
+```
 # AI-powered organization (Requires OPENAI_API_KEY)
 # $env:OPENAI_API_KEY="your_key"
 ```
