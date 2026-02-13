@@ -1,0 +1,39 @@
+{
+    "rules": [
+        {
+            "match_extension": [
+                "jpg",
+                "jpeg",
+                "png",
+                "gif"
+            ],
+            "move_to": "Images"
+        },
+        {
+            "match_extension": [
+                "mp4",
+                "mkv",
+                "avi",
+                "mov"
+            ],
+            "move_to": "Videos"
+        },
+        {
+            "match_extension": [
+                "pdf",
+                "doc",
+                "docx",
+                "txt"
+            ],
+            "move_to": "Documents"
+        },
+        {
+            "match_mime": "application/zip",
+            "move_to": "Archives"
+        },
+        {
+            "match_name_regex": "invoice.*",
+            "move_to": "Finance/Invoices"
+        }
+    ]
+}
