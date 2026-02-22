@@ -201,6 +201,24 @@ I saw my "Downloads" folder becoming a graveyard of PDFs, screenshots, and zip f
 - [ ] **Perceptual Hashing**: Detect "similar" images, not just identical ones.
 - [ ] **Mobile Port**: A companion app for Android/iOS.
 
+## ⭐ Support & Engagement
+
+If you find this repository useful or insightful, please consider:
+
+- ⭐ Starring the repository
+- 🔁 Sharing it within your network
+- 👤 Following my GitHub profile for future projects and updates
+
+Your support helps drive continued innovation and open-source contributions.
+
+— Syed Shaheer Hussain
+
+[![GitHub followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Follow&style=social)](https://github.com/SyedShaheerHussain)
+
+![Followers](https://img.shields.io/github/followers/SyedShaheerHussain?label=Followers&color=blue)
+
+![Stars](https://img.shields.io/github/stars/SyedShaheerHussain/AI-File-Organizer-Offline-CLI-GUI-?label=Stars&color=yellow)
+
 ## 📝 Important Notes
 
 >[!important]
